@@ -2,6 +2,7 @@
 Extensões que eu uso em meus navegadores
 
 ## Desenvolvimento
+- [Postman](https://www.getpostman.com/)
 - [ColorZilla](http://www.colorzilla.com/)
 - [EditThisCookie](http://www.editthiscookie.com/)
 - [JSON Formatter](https://github.com/callumlocke/json-formatter)
