@@ -1,4 +1,4 @@
-# myBrowserExtensions
+# My Browser Extensions
 Extensões que eu uso em meus navegadores
 
 ## Desenvolvimento
@@ -14,6 +14,7 @@ Extensões que eu uso em meus navegadores
 - [Feedly Notifier](https://olsh.me/Feedly-Notifier/)
 
 ## Utilitários
+- [Pocket](https://getpocket.com)
 - [AdBlock](https://getadblock.com/)
 - [Emoji Input](http://www.emojistuff.com/)
 - [Momentum](https://momentumdash.com/)
