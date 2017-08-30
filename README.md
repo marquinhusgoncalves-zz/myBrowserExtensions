@@ -24,6 +24,7 @@ Extensões que eu uso em meus navegadores
 - [Google Calendar](https://chrome.google.com/webstore/detail/google-calendar-by-google/gmbgaklkmjakoegficnlkhebmhkjfich)
 - [Wunderlist](https://chrome.google.com/webstore/detail/add-to-wunderlist/dmnddeddcgdllibmaodanoonljfdmooc)
 - [Inventor](https://github.com/marcopelegrini/inventor/)
+- [The Great Suspender](https://github.com/deanoemcke/thegreatsuspender/)
 
 ## Cashback
 - [Méliuz](https://www.meliuz.com.br/)
