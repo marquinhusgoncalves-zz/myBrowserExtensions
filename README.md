@@ -8,7 +8,7 @@ Extensões que eu uso em meus navegadores
 - [JSON Formatter](https://github.com/callumlocke/json-formatter)
 - [OctoLinker](https://octolinker.github.io/)
 - [Octotree](https://github.com/buunguyen/octotree)
-- [WAVE Evaluation Tool]()
+- [WAVE Evaluation Tool](http://wave.webaim.org/)
 
 ## Informação
 - [Feedly Notifier](https://olsh.me/Feedly-Notifier/)
@@ -20,7 +20,11 @@ Extensões que eu uso em meus navegadores
 - [Momentum](https://momentumdash.com/)
 - [Pure Pomodoro]()
 - [Xmarks Bookmark Sync](http://xmarks.com/)
-- [Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
+- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
 - [Google Calendar](https://chrome.google.com/webstore/detail/google-calendar-by-google/gmbgaklkmjakoegficnlkhebmhkjfich)
-- [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [Wunderlist](https://chrome.google.com/webstore/detail/add-to-wunderlist/dmnddeddcgdllibmaodanoonljfdmooc)
+- [Inventor](https://github.com/marcopelegrini/inventor/)
+
+## Cashback
+- [Méliuz](https://www.meliuz.com.br/)
+- [Dotz](https://dotz.com.br/)
