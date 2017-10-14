@@ -9,6 +9,8 @@ Extensões que eu uso em meus navegadores
 - [OctoLinker](https://octolinker.github.io/)
 - [Octotree](https://github.com/buunguyen/octotree)
 - [WAVE Evaluation Tool](http://wave.webaim.org/)
+- [React DevTools](https://github.com/facebook/react-devtools/)
+- [React Sight](http://www.reactsight.com/)
 
 ## Informação
 - [Feedly Notifier](https://olsh.me/Feedly-Notifier/)
@@ -25,6 +27,7 @@ Extensões que eu uso em meus navegadores
 - [Wunderlist](https://chrome.google.com/webstore/detail/add-to-wunderlist/dmnddeddcgdllibmaodanoonljfdmooc)
 - [Inventor](https://github.com/marcopelegrini/inventor/)
 - [The Great Suspender](https://github.com/deanoemcke/thegreatsuspender/)
+- [Inventor](https://github.com/marcopelegrini/inventor/)
 
 ## Cashback
 - [Méliuz](https://www.meliuz.com.br/)
