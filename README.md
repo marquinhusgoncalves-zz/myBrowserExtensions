@@ -20,14 +20,12 @@ Extensões que eu uso em meus navegadores
 - [AdBlock](https://getadblock.com/)
 - [Emoji Input](http://www.emojistuff.com/)
 - [Momentum](https://momentumdash.com/)
-- [Pure Pomodoro]()
 - [Xmarks Bookmark Sync](http://xmarks.com/)
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
 - [Google Calendar](https://chrome.google.com/webstore/detail/google-calendar-by-google/gmbgaklkmjakoegficnlkhebmhkjfich)
 - [Wunderlist](https://chrome.google.com/webstore/detail/add-to-wunderlist/dmnddeddcgdllibmaodanoonljfdmooc)
 - [Inventor](https://github.com/marcopelegrini/inventor/)
 - [The Great Suspender](https://github.com/deanoemcke/thegreatsuspender/)
-- [Inventor](https://github.com/marcopelegrini/inventor/)
 
 ## Cashback
 - [Méliuz](https://www.meliuz.com.br/)
