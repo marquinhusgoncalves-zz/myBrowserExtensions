@@ -11,6 +11,7 @@ Extensões que eu uso em meus navegadores
 - [WAVE Evaluation Tool](http://wave.webaim.org/)
 - [React DevTools](https://github.com/facebook/react-devtools/)
 - [React Sight](http://www.reactsight.com/)
+- [Lighthouse](https://developers.google.com/web/)
 
 ## Informação
 - [Feedly Notifier](https://olsh.me/Feedly-Notifier/)
@@ -26,6 +27,7 @@ Extensões que eu uso em meus navegadores
 - [Wunderlist](https://chrome.google.com/webstore/detail/add-to-wunderlist/dmnddeddcgdllibmaodanoonljfdmooc)
 - [Inventor](https://github.com/marcopelegrini/inventor/)
 - [The Great Suspender](https://github.com/deanoemcke/thegreatsuspender/)
+- [Cherry Tomato](https://cil.rocks/)
 
 ## Cashback
 - [Méliuz](https://www.meliuz.com.br/)
